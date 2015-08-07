@@ -192,48 +192,48 @@ function EF_getClassIconaByNodo(nodo){
 		switch (nodo.data.tipoDoc) {
 		case 'folder':
 //			classeCss = 'EF_itemBackFolder';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/Folder64.png';
+			srcImage = 'img/esplora_fascicoli/Folder64.png';
 			break;
 		case 'pdf':
 //			classeCss = 'EF_itemBackPdf';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/pdf64.png';
+			srcImage = 'img/esplora_fascicoli/pdf64.png';
 			break;
 		case 'xls':
 //			classeCss = 'EF_itemBackXls';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/xls64.png';
+			srcImage = 'img/esplora_fascicoli/xls64.png';
 			break;
 		case 'xlsx':
 //			classeCss = 'EF_itemBackXls';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/xls64.png';
+			srcImage = 'img/esplora_fascicoli/xls64.png';
 			break;
 		case 'txt':
 //			classeCss = 'EF_itemBackTxt';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/txt64.png';
+			srcImage = 'img/esplora_fascicoli/txt64.png';
 			break;
 		case 'generic':
 //			classeCss = 'EF_itemBackGeneric';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/generic64.png';
+			srcImage = 'img/esplora_fascicoli/generic64.png';
 			break;
 		case 'doc':
 //			classeCss = 'EF_itemBackDoc';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/doc64.png';
+			srcImage = 'img/esplora_fascicoli/doc64.png';
 			break;
 		case 'docx':
 //			classeCss = 'EF_itemBackDoc';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/doc64.png';
+			srcImage = 'img/esplora_fascicoli/doc64.png';
 			break;
 		case 'p7m':
 //			classeCss = 'EF_itemBackP7m';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/p7m64.png';
+			srcImage = 'img/esplora_fascicoli/p7m64.png';
 			break;
 		case 'protocollo':
 //			classeCss = 'EF_itemBackProtocollo';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/protocollo64.png';
+			srcImage = 'img/esplora_fascicoli/protocollo64.png';
 			break;
 
 		default:
 //			classeCss = 'EF_itemBackGeneric';
-			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/generic64.png';
+			srcImage = 'img/esplora_fascicoli/generic64.png';
 			break;
 		}
 	}

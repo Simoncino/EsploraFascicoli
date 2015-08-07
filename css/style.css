@@ -9,7 +9,7 @@
 		height: 100%;
 		float: left;
 		overflow: auto;
-		background: url(img/esplora_fascicoli/sfumaturaSX.png) top right repeat-y;
+		background: url(../img/esplora_fascicoli/sfumaturaSX.png) top right repeat-y;
 		font-size: 12px;
 	}
 	.EF_panelViewCartella{
@@ -40,7 +40,7 @@
 		width: 0;
 		height: 100%;
 		float: left;
-		/*background: url(img/esplora_fascicoli/sfumaturaSX.png) top right repeat-y;*/
+		/*background: url(../img/esplora_fascicoli/sfumaturaSX.png) top right repeat-y;*/
 	}
 	
 	.EF_clear{
@@ -66,40 +66,40 @@
 	}
 
 	.EF_itemBackFolder{
-		background: url(img/esplora_fascicoli/Folder64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/Folder64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackDoc{
-		background: url(img/esplora_fascicoli/doc64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/doc64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackXls{
-		background: url(img/esplora_fascicoli/xls64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/xls64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackPdf{
-		background: url(img/esplora_fascicoli/pdf64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/pdf64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackTxt{
-		background: url(img/esplora_fascicoli/txt64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/txt64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackP7m{
-		background: url(img/esplora_fascicoli/p7m64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/p7m64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackGeneric{
-		background: url(img/esplora_fascicoli/generic64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/generic64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	.EF_itemBackProtocollo{
-		background: url(img/esplora_fascicoli/protocollo64.png) #F6F6F6 no-repeat;
+		background: url(../img/esplora_fascicoli/protocollo64.png) #F6F6F6 no-repeat;
 		background-position:center 10px;
 	}
 	
 	.EF_itemInContenuto:HOVER{
-		/*background: url(img/esplora_fascicoli/Folder64.png) #F6F6F6 no-repeat;*/
+		/*background: url(../img/esplora_fascicoli/Folder64.png) #F6F6F6 no-repeat;*/
 		background-color: #e7f4f9;
 		background-position:center 10px;
 	}

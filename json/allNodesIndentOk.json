@@ -72,7 +72,7 @@
          {  
             "id":"0900271a8018bb08",
             "text":"daaggiornare@.it.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a8018bb08"
             },
@@ -148,7 +148,7 @@
          {  
             "id":"0900271a8018f598",
             "text":"ITBRGSNO53C46A369C_00001_MT_001(04072014.7).xml",
-            "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+            "icon":"img/esplora_fascicoli/generic32.png",
             "li_attr":{  
                "id":"0900271a8018f598"
             },
@@ -224,7 +224,7 @@
          {  
             "id":"0900271a8018f59c",
             "text":"ITBRGSNO53C46A369C_00001_MT_001(04072014.9).xml",
-            "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+            "icon":"img/esplora_fascicoli/generic32.png",
             "li_attr":{  
                "id":"0900271a8018f59c"
             },
@@ -300,7 +300,7 @@
          {  
             "id":"0900271a8018f5b4",
             "text":"ITBRGSNO53C46A369C_00001_MT_001(04072014.10).xml",
-            "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+            "icon":"img/esplora_fascicoli/generic32.png",
             "li_attr":{  
                "id":"0900271a8018f5b4"
             },
@@ -376,7 +376,7 @@
          {  
             "id":"0900271a801b39bc",
             "text":"daaggiornare@.it.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801b39bc"
             },
@@ -835,7 +835,7 @@
                {  
                   "id":"0900271a8019f9f4",
                   "text":"Estratto di nascita",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a8019f9f4"
                   },
@@ -1064,7 +1064,7 @@
                {  
                   "id":"0900271a8019f9f5",
                   "text":"Mese ottobre",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a8019f9f5"
                   },
@@ -1140,7 +1140,7 @@
                {  
                   "id":"0900271a8019f9f6",
                   "text":"Mese settembre",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a8019f9f6"
                   },
@@ -1216,7 +1216,7 @@
                {  
                   "id":"0900271a8019f9f7",
                   "text":"Mese gennaio - agosto",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a8019f9f7"
                   },
@@ -1525,7 +1525,7 @@
          {  
             "id":"0900271a801a258e",
             "text":"",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801a258e"
             },
@@ -1601,7 +1601,7 @@
          {  
             "id":"0900271a801ad4b6",
             "text":"NSD - SPEC e D-R.xlsx",
-            "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+            "icon":"img/esplora_fascicoli/generic32.png",
             "li_attr":{  
                "id":"0900271a801ad4b6"
             },
@@ -1754,7 +1754,7 @@
          {  
             "id":"0900271a801b2602",
             "text":"Regole giustificativi.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801b2602"
             },
@@ -1830,7 +1830,7 @@
          {  
             "id":"0900271a801b2603",
             "text":"hr di test fiorella.txt",
-            "icon":"styles/css/img/esplora_fascicoli/txt32.png",
+            "icon":"img/esplora_fascicoli/txt32.png",
             "li_attr":{  
                "id":"0900271a801b2603"
             },
@@ -1906,7 +1906,7 @@
          {  
             "id":"0900271a801b2ef1",
             "text":"Guida operativa Intesa.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801b2ef1"
             },
@@ -1982,7 +1982,7 @@
          {  
             "id":"0900271a801ba772",
             "text":"Ilglifoaggiornato.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba772"
             },
@@ -2058,7 +2058,7 @@
          {  
             "id":"0900271a801ba79b",
             "text":"Regole giustificativi.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba79b"
             },
@@ -2285,7 +2285,7 @@
                {  
                   "id":"0900271a801b547e",
                   "text":"1.PDF",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801b547e"
                   },
@@ -2361,7 +2361,7 @@
                {  
                   "id":"0900271a801b547f",
                   "text":"doc_000053334349.PDF",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801b547f"
                   },
@@ -2437,7 +2437,7 @@
                {  
                   "id":"0900271a801b7d98",
                   "text":"allegato 1 T1_AOSTA_MP_V2.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801b7d98"
                   },
@@ -2513,7 +2513,7 @@
                {  
                   "id":"0900271a801b7e81",
                   "text":"prova.pdf",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801b7e81"
                   },
@@ -2589,7 +2589,7 @@
                {  
                   "id":"0900271a801b7e90",
                   "text":"architettura_3.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801b7e90"
                   },
@@ -2665,7 +2665,7 @@
                {  
                   "id":"0900271a801b7f46",
                   "text":"farmacia_0.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801b7f46"
                   },
@@ -2741,7 +2741,7 @@
                {  
                   "id":"0900271a801b7f48",
                   "text":"RICORSO_TAR.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801b7f48"
                   },
@@ -2817,7 +2817,7 @@
                {  
                   "id":"0900271a801b7f4a",
                   "text":"sociologia_2.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801b7f4a"
                   },
@@ -2893,7 +2893,7 @@
                {  
                   "id":"0900271a801ba41c",
                   "text":"TipoDoc.pdf",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801ba41c"
                   },
@@ -3045,7 +3045,7 @@
                {  
                   "id":"0900271a801b3c07",
                   "text":"AGE.AOO1.REGISTRO UFFICIALE.15052915.I.145",
-                  "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+                  "icon":"img/esplora_fascicoli/protocollo32.png",
                   "li_attr":{  
                      "id":"0900271a801b3c07"
                   },
@@ -3173,7 +3173,7 @@
                {  
                   "id":"0900271a801b9f2a",
                   "text":"",
-                  "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+                  "icon":"img/esplora_fascicoli/protocollo32.png",
                   "li_attr":{  
                      "id":"0900271a801b9f2a"
                   },
@@ -3249,7 +3249,7 @@
                {  
                   "id":"0900271a801ba426",
                   "text":"detrazioni.pdf",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801ba426"
                   },
@@ -3325,7 +3325,7 @@
                {  
                   "id":"0900271a801ba7e5",
                   "text":"DELEGA.pdf",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801ba7e5"
                   },
@@ -3403,7 +3403,7 @@
          {  
             "id":"0900271a8018f59c",
             "text":"ITBRGSNO53C46A369C_00001_MT_001(04072014.9).xml",
-            "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+            "icon":"img/esplora_fascicoli/generic32.png",
             "li_attr":{  
                "id":"0900271a8018f59c"
             },
@@ -3479,7 +3479,7 @@
          {  
             "id":"0900271a8018f5b4",
             "text":"ITBRGSNO53C46A369C_00001_MT_001(04072014.10).xml",
-            "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+            "icon":"img/esplora_fascicoli/generic32.png",
             "li_attr":{  
                "id":"0900271a8018f5b4"
             },
@@ -3555,7 +3555,7 @@
          {  
             "id":"0900271a801b7e9e",
             "text":"Ricorso_motivi_aggiunti_0.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801b7e9e"
             },
@@ -3631,7 +3631,7 @@
          {  
             "id":"0900271a801b7eae",
             "text":"R2006.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801b7eae"
             },
@@ -3707,7 +3707,7 @@
          {  
             "id":"0900271a801b9f1f",
             "text":"",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801b9f1f"
             },
@@ -3888,7 +3888,7 @@
          {  
             "id":"0900271a801b9f22",
             "text":"",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801b9f22"
             },
@@ -4069,7 +4069,7 @@
          {  
             "id":"0900271a801ba09d",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000213.17-07-2015.I",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba09d"
             },
@@ -4250,7 +4250,7 @@
          {  
             "id":"0900271a801ba0bd",
             "text":"TipoDoc.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801ba0bd"
             },
@@ -4326,7 +4326,7 @@
          {  
             "id":"0900271a801ba563",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000272.20-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba563"
             },
@@ -4402,7 +4402,7 @@
          {  
             "id":"0900271a801ba565",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000276.20-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba565"
             },
@@ -4555,7 +4555,7 @@
          {  
             "id":"0900271a801b3248",
             "text":"Ricevuta di cassa 1° invio.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801b3248"
             },
@@ -4631,7 +4631,7 @@
          {  
             "id":"0900271a801b3249",
             "text":"12345678901234567890.doc",
-            "icon":"styles/css/img/esplora_fascicoli/doc32.png",
+            "icon":"img/esplora_fascicoli/doc32.png",
             "li_attr":{  
                "id":"0900271a801b3249"
             },
@@ -4707,7 +4707,7 @@
          {  
             "id":"0900271a801b324a",
             "text":"1234567890123456789012345678.doc",
-            "icon":"styles/css/img/esplora_fascicoli/doc32.png",
+            "icon":"img/esplora_fascicoli/doc32.png",
             "li_attr":{  
                "id":"0900271a801b324a"
             },
@@ -4860,7 +4860,7 @@
          {  
             "id":"0900271a801b9ee8",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000238.18-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801b9ee8"
             },
@@ -4988,7 +4988,7 @@
          {  
             "id":"0900271a801ba4ce",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000270.20-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba4ce"
             },
@@ -5169,7 +5169,7 @@
          {  
             "id":"0900271a801ba53c",
             "text":"sanatrix.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801ba53c"
             },
@@ -5245,7 +5245,7 @@
          {  
             "id":"0900271a801ba554",
             "text":"TipoDoc.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801ba554"
             },
@@ -5321,7 +5321,7 @@
          {  
             "id":"0900271a801ba56c",
             "text":"getContenutoDoc.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801ba56c"
             },
@@ -5397,7 +5397,7 @@
          {  
             "id":"0900271a801ba76d",
             "text":"Dp15qo01.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba76d"
             },
@@ -5473,7 +5473,7 @@
          {  
             "id":"0900271a801ba7a3",
             "text":"Registro_21_luglio.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801ba7a3"
             },
@@ -5700,7 +5700,7 @@
                {  
                   "id":"0900271a801ba6ff",
                   "text":"AGE.AOO1.REGISTRO UFFICIALE.0000278.20-07-2015-U",
-                  "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+                  "icon":"img/esplora_fascicoli/protocollo32.png",
                   "li_attr":{  
                      "id":"0900271a801ba6ff"
                   },
@@ -5828,7 +5828,7 @@
                {  
                   "id":"0900271a801ba701",
                   "text":"Documento1.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801ba701"
                   },
@@ -5904,7 +5904,7 @@
                {  
                   "id":"0900271a801ba702",
                   "text":"Copia di prova.txt",
-                  "icon":"styles/css/img/esplora_fascicoli/txt32.png",
+                  "icon":"img/esplora_fascicoli/txt32.png",
                   "li_attr":{  
                      "id":"0900271a801ba702"
                   },
@@ -5980,7 +5980,7 @@
                {  
                   "id":"0900271a801ba703",
                   "text":"query.docx",
-                  "icon":"styles/css/img/esplora_fascicoli/generic32.png",
+                  "icon":"img/esplora_fascicoli/generic32.png",
                   "li_attr":{  
                      "id":"0900271a801ba703"
                   },
@@ -6056,7 +6056,7 @@
                {  
                   "id":"0900271a801ba79d",
                   "text":"farmacia_0.pdf.p7m",
-                  "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+                  "icon":"img/esplora_fascicoli/p7m32.png",
                   "li_attr":{  
                      "id":"0900271a801ba79d"
                   },
@@ -6132,7 +6132,7 @@
                {  
                   "id":"0900271a801ba7a5",
                   "text":"allegato 1 T1_AOSTA_MP_V2.pdf",
-                  "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+                  "icon":"img/esplora_fascicoli/pdf32.png",
                   "li_attr":{  
                      "id":"0900271a801ba7a5"
                   },
@@ -6210,7 +6210,7 @@
          {  
             "id":"0900271a801ba462",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000243.18-07-2015.I",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba462"
             },
@@ -6338,7 +6338,7 @@
          {  
             "id":"0900271a801ba6d5",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000277.20-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba6d5"
             },
@@ -6414,7 +6414,7 @@
          {  
             "id":"0900271a801ba721",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000279.20-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba721"
             },
@@ -6490,7 +6490,7 @@
          {  
             "id":"0900271a801ba722",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000280.20-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba722"
             },
@@ -6566,7 +6566,7 @@
          {  
             "id":"0900271a801ba7b0",
             "text":"Registro_10_luglio_DFDSI.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba7b0"
             },
@@ -6642,7 +6642,7 @@
          {  
             "id":"0900271a801ba7b2",
             "text":"Registro_15_luglio_DFDSI.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba7b2"
             },
@@ -6718,7 +6718,7 @@
          {  
             "id":"0900271a801ba7b4",
             "text":"Registro_21_luglio.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba7b4"
             },
@@ -6794,7 +6794,7 @@
          {  
             "id":"0900271a801ba7b6",
             "text":"Registro_21_luglio_DFDSI.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba7b6"
             },
@@ -6870,7 +6870,7 @@
          {  
             "id":"0900271a801ba7b8",
             "text":"Registro_18_luglio_DFDSI.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba7b8"
             },
@@ -6946,7 +6946,7 @@
          {  
             "id":"0900271a801ba7d7",
             "text":"Registro_11_luglio_DFDSI.pdf.p7m",
-            "icon":"styles/css/img/esplora_fascicoli/p7m32.png",
+            "icon":"img/esplora_fascicoli/p7m32.png",
             "li_attr":{  
                "id":"0900271a801ba7d7"
             },
@@ -7022,7 +7022,7 @@
          {  
             "id":"0900271a801ba83e",
             "text":"cover_69.pdf",
-            "icon":"styles/css/img/esplora_fascicoli/pdf32.png",
+            "icon":"img/esplora_fascicoli/pdf32.png",
             "li_attr":{  
                "id":"0900271a801ba83e"
             },
@@ -7098,7 +7098,7 @@
          {  
             "id":"0900271a801ba83f",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000326.27-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba83f"
             },
@@ -7174,7 +7174,7 @@
          {  
             "id":"0900271a801ba840",
             "text":"AGE.AOO1.REGISTRO UFFICIALE.0000327.27-07-2015-U",
-            "icon":"styles/css/img/esplora_fascicoli/protocollato32.png",
+            "icon":"img/esplora_fascicoli/protocollo32.png",
             "li_attr":{  
                "id":"0900271a801ba840"
             },
@@ -7250,7 +7250,7 @@
          {  
             "id":"0900271a801ba841",
             "text":"doc_000000043962.txt.txt",
-            "icon":"styles/css/img/esplora_fascicoli/txt32.png",
+            "icon":"img/esplora_fascicoli/txt32.png",
             "li_attr":{  
                "id":"0900271a801ba841"
             },
