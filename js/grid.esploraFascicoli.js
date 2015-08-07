@@ -1,33 +1,4 @@
-include_javascript_file('js/jqgrid/utility/widgetUtils.js');
-include_javascript_file('js/jqgrid/utility/gai/grids/grid.preferiti.js');
 //EF = Esplora Fascicoli, serve per non andare in conflitto con altri javascript
-
-function load_esploraFascicoli(){
-	EF_showLoadingSplash();
-	var html = $('<div id="dialogEsploraFasc"></div>')
-			.load('pages/dialog/esploraFascicoli.jsp', function() {
-				EF_initJsTree();
-			});
-//	jDialogstatoTrasferimenti = 
-	set_widget_dialog_properties("esploraFascicoli", {
-		widgetContent: html,
-		minWidth : $('#workarea').width()-10,
-		minHeight : $('#workarea').height()-10,
-		width: $('#workarea').width()-10,
-		height: $('#workarea').height()-10,
-		reload: load_esploraFascicoli,
-		resize: function(event, ui) {
-			var widgetContent = $(this);
-			var gridElenco = widgetContent.find("#dialog-esploraFascicoli");
-			gridElenco.setGridWidth(widgetContent.width(), true);
-			gridElenco.setGridHeight(widgetContent.height(), true);
-		}
-	});
-	
-	$('#dialog-esploraFascicoli').css('overflow', 'hidden');
-	
-	EF_hideLoadingSplash();
-}
 
 /**gestione jsTree start *************************************************/
 //Expected format of the node (there are no required fields)
@@ -54,7 +25,8 @@ function EF_initJsTree() {
 			'multiple' : false,
 			'data' : {
 				'cache' : false,
-				'url' : 'gestioneEsploraFascicoliAction.do?evento=getNodiById',
+				//'url' : 'gestioneEsploraFascicoliAction.do?evento=getNodiById',
+				'url' : 'json/allNodesIndentOk.json',
 				'data' : function (node) {
 					return { 'id' : node.id };
 				}
@@ -220,48 +192,48 @@ function EF_getClassIconaByNodo(nodo){
 		switch (nodo.data.tipoDoc) {
 		case 'folder':
 //			classeCss = 'EF_itemBackFolder';
-			srcImage = 'styles/css/img/esplora_fascicoli/Folder64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/Folder64.png';
 			break;
 		case 'pdf':
 //			classeCss = 'EF_itemBackPdf';
-			srcImage = 'styles/css/img/esplora_fascicoli/pdf64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/pdf64.png';
 			break;
 		case 'xls':
 //			classeCss = 'EF_itemBackXls';
-			srcImage = 'styles/css/img/esplora_fascicoli/xls64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/xls64.png';
 			break;
 		case 'xlsx':
 //			classeCss = 'EF_itemBackXls';
-			srcImage = 'styles/css/img/esplora_fascicoli/xls64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/xls64.png';
 			break;
 		case 'txt':
 //			classeCss = 'EF_itemBackTxt';
-			srcImage = 'styles/css/img/esplora_fascicoli/txt64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/txt64.png';
 			break;
 		case 'generic':
 //			classeCss = 'EF_itemBackGeneric';
-			srcImage = 'styles/css/img/esplora_fascicoli/generic64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/generic64.png';
 			break;
 		case 'doc':
 //			classeCss = 'EF_itemBackDoc';
-			srcImage = 'styles/css/img/esplora_fascicoli/doc64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/doc64.png';
 			break;
 		case 'docx':
 //			classeCss = 'EF_itemBackDoc';
-			srcImage = 'styles/css/img/esplora_fascicoli/doc64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/doc64.png';
 			break;
 		case 'p7m':
 //			classeCss = 'EF_itemBackP7m';
-			srcImage = 'styles/css/img/esplora_fascicoli/p7m64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/p7m64.png';
 			break;
 		case 'protocollo':
 //			classeCss = 'EF_itemBackProtocollo';
-			srcImage = 'styles/css/img/esplora_fascicoli/protocollo64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/protocollo64.png';
 			break;
 
 		default:
 //			classeCss = 'EF_itemBackGeneric';
-			srcImage = 'styles/css/img/esplora_fascicoli/generic64.png';
+			srcImage = 'img/esplora_fascicoli/esplora_fascicoli/generic64.png';
 			break;
 		}
 	}
